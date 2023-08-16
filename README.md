@@ -10,7 +10,6 @@ Los datos recopilados en formato csv contienen informacion sobre accesos a inter
 - [datasets](https://github.com/Clarisantillan/PI2_DA_telecomunicaciones/tree/main/Datos_limpios)
 
 ## `Análisis exploratorio de datos (EDA)`
-- [notebook general](https://github.com/Clarisantillan/PI2_DA_telecomunicaciones/blob/main/eda_general.ipynb)
 - [notebook principal](https://github.com/Clarisantillan/PI2_DA_telecomunicaciones/blob/main/EDA.ipynb)
 
 El analisis exploratorio lo dividi en dos partes. Primero realice un EDA general de los 16 dataset brindados, con el fin de conocer los datos, las variables y relaciones. Y en un segundo notebook realice un EDA con los 5 dataset que considere mas importantes ya que contenian la informacion mas relevante para describir el sector.
